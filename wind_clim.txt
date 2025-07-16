@@ -1,0 +1,21 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3_CLASSIC):
+    dimensions(sizes): XNEW(360), YNEW(240), TDAYS(365)
+    variables(dimensions): float64 XNEW('XNEW',), float64 YNEW('YNEW',), float64 TDAYS('TDAYS',), float32 UWND('TDAYS', 'YNEW', 'XNEW'), float32 VWND('TDAYS', 'YNEW', 'XNEW')
+    groups: 
+
+Variable: XNEW
+[30.125, 30.375, 30.625, 30.875, 31.125, ... 118.875, 119.125, 119.375, 119.625, 119.875]
+
+Variable: YNEW
+[-29.875, -29.625, -29.375, -29.125, -28.875, ... 28.875, 29.125, 29.375, 29.625, 29.875]
+
+Variable: TDAYS
+[0., 1., 2., 3., 4., ... 360., 361., 362., 363., 364.]
+
+Variable: UWND
+[-2.2196236, -2.860235 , -3.4796515, -4.515545 , -6.2047668, ... -1.6571677, -1.4944979, -1.4544928, -1.5853704, -1.4179319]
+
+Variable: VWND
+[ 0.02598226, -0.43598872, -0.93659335, -1.5669743 , -2.529278  , ... -0.4876817 , -0.92026937, -1.207845  , -1.2608981 , -1.2032199 ]
+

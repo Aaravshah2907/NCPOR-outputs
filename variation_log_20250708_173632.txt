@@ -1,0 +1,68 @@
+
+Season: Winter
+  Average Min Magnitude: -0.3277
+  Average Max Magnitude: 0.2843
+  Year-wise deviations:
+    Year: 2011 | Min: -0.3286 (dev: -0.0009), Max: 0.2839 (dev: -0.0004)
+    Year: 2012 | Min: -0.3300 (dev: -0.0023), Max: 0.2820 (dev: -0.0023)
+    Year: 2013 | Min: -0.3275 (dev: +0.0002), Max: 0.2822 (dev: -0.0021)
+    Year: 2014 | Min: -0.3273 (dev: +0.0004), Max: 0.2837 (dev: -0.0007)
+    Year: 2015 | Min: -0.3274 (dev: +0.0003), Max: 0.2847 (dev: +0.0004)
+    Year: 2016 | Min: -0.3274 (dev: +0.0003), Max: 0.2851 (dev: +0.0007)
+    Year: 2017 | Min: -0.3274 (dev: +0.0003), Max: 0.2847 (dev: +0.0004)
+    Year: 2018 | Min: -0.3273 (dev: +0.0004), Max: 0.2849 (dev: +0.0005)
+    Year: 2019 | Min: -0.3274 (dev: +0.0003), Max: 0.2852 (dev: +0.0008)
+    Year: 2020 | Min: -0.3273 (dev: +0.0004), Max: 0.2853 (dev: +0.0010)
+    Year: 2021 | Min: -0.3273 (dev: +0.0004), Max: 0.2853 (dev: +0.0009)
+    Year: 2022 | Min: -0.3273 (dev: +0.0004), Max: 0.2851 (dev: +0.0008)
+
+Season: Summer
+  Average Min Magnitude: -0.6599
+  Average Max Magnitude: 0.6660
+  Year-wise deviations:
+    Year: 2011 | Min: -0.6596 (dev: +0.0003), Max: 0.6661 (dev: +0.0001)
+    Year: 2012 | Min: -0.6596 (dev: +0.0003), Max: 0.6658 (dev: -0.0002)
+    Year: 2013 | Min: -0.6595 (dev: +0.0004), Max: 0.6655 (dev: -0.0005)
+    Year: 2014 | Min: -0.6598 (dev: +0.0001), Max: 0.6657 (dev: -0.0002)
+    Year: 2015 | Min: -0.6602 (dev: -0.0003), Max: 0.6662 (dev: +0.0003)
+    Year: 2016 | Min: -0.6600 (dev: -0.0001), Max: 0.6661 (dev: +0.0001)
+    Year: 2017 | Min: -0.6600 (dev: -0.0001), Max: 0.6660 (dev: +0.0000)
+    Year: 2018 | Min: -0.6600 (dev: -0.0001), Max: 0.6660 (dev: +0.0000)
+    Year: 2019 | Min: -0.6600 (dev: -0.0001), Max: 0.6661 (dev: +0.0001)
+    Year: 2020 | Min: -0.6601 (dev: -0.0002), Max: 0.6661 (dev: +0.0001)
+    Year: 2021 | Min: -0.6600 (dev: -0.0001), Max: 0.6661 (dev: +0.0001)
+    Year: 2022 | Min: -0.6599 (dev: -0.0000), Max: 0.6660 (dev: -0.0000)
+
+Season: Spring
+  Average Min Magnitude: -0.5024
+  Average Max Magnitude: 0.4921
+  Year-wise deviations:
+    Year: 2011 | Min: -0.5024 (dev: -0.0001), Max: 0.4922 (dev: +0.0001)
+    Year: 2012 | Min: -0.5028 (dev: -0.0005), Max: 0.4919 (dev: -0.0001)
+    Year: 2013 | Min: -0.5022 (dev: +0.0002), Max: 0.4907 (dev: -0.0013)
+    Year: 2014 | Min: -0.5021 (dev: +0.0002), Max: 0.4908 (dev: -0.0013)
+    Year: 2015 | Min: -0.5021 (dev: +0.0002), Max: 0.4917 (dev: -0.0004)
+    Year: 2016 | Min: -0.5022 (dev: +0.0002), Max: 0.4922 (dev: +0.0001)
+    Year: 2017 | Min: -0.5023 (dev: +0.0000), Max: 0.4922 (dev: +0.0002)
+    Year: 2018 | Min: -0.5024 (dev: -0.0001), Max: 0.4923 (dev: +0.0002)
+    Year: 2019 | Min: -0.5024 (dev: -0.0001), Max: 0.4926 (dev: +0.0005)
+    Year: 2020 | Min: -0.5024 (dev: -0.0000), Max: 0.4928 (dev: +0.0008)
+    Year: 2021 | Min: -0.5024 (dev: -0.0001), Max: 0.4928 (dev: +0.0007)
+    Year: 2022 | Min: -0.5024 (dev: -0.0000), Max: 0.4925 (dev: +0.0005)
+
+Season: Autumn
+  Average Min Magnitude: -0.3300
+  Average Max Magnitude: 0.4062
+  Year-wise deviations:
+    Year: 2011 | Min: -0.3304 (dev: -0.0004), Max: 0.4085 (dev: +0.0023)
+    Year: 2012 | Min: -0.3298 (dev: +0.0002), Max: 0.4065 (dev: +0.0003)
+    Year: 2013 | Min: -0.3292 (dev: +0.0008), Max: 0.4059 (dev: -0.0003)
+    Year: 2014 | Min: -0.3295 (dev: +0.0005), Max: 0.4060 (dev: -0.0002)
+    Year: 2015 | Min: -0.3300 (dev: -0.0000), Max: 0.4060 (dev: -0.0002)
+    Year: 2016 | Min: -0.3302 (dev: -0.0002), Max: 0.4059 (dev: -0.0003)
+    Year: 2017 | Min: -0.3301 (dev: -0.0001), Max: 0.4060 (dev: -0.0002)
+    Year: 2018 | Min: -0.3302 (dev: -0.0002), Max: 0.4059 (dev: -0.0002)
+    Year: 2019 | Min: -0.3302 (dev: -0.0002), Max: 0.4059 (dev: -0.0003)
+    Year: 2020 | Min: -0.3302 (dev: -0.0002), Max: 0.4059 (dev: -0.0003)
+    Year: 2021 | Min: -0.3301 (dev: -0.0001), Max: 0.4059 (dev: -0.0003)
+    Year: 2022 | Min: -0.3301 (dev: -0.0001), Max: 0.4059 (dev: -0.0002)
